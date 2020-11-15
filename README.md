@@ -1,1 +1,2 @@
+<img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/proyecto-TEA/frontend"> <img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed/proyecto-TEA/frontend"> <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr-raw/proyecto-TEA/frontend"> <img alt="GitHub closed pull requests" src="https://img.shields.io/github/issues-pr-closed/proyecto-TEA/frontend"> <img alt="license" src="https://img.shields.io/badge/license-Apache-blue">
 # frontend
